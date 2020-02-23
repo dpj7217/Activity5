@@ -1,0 +1,8 @@
+2020-02-16 17:41:27.9650INFOController: Index; Action: Login
+2020-02-16 17:41:28.0398INFOController: Index; Action: Login
+2020-02-16 18:51:20.6049INFOController: GetUsers; Action: Login
+2020-02-16 18:51:20.6737INFOSystem created cached List<UserModel>
+2020-02-16 18:51:20.8827INFOController: GetUsers; Action: Login
+2020-02-16 18:54:32.6028INFOController: GetUsers; Action: Login
+2020-02-16 18:54:32.6746INFOSystem created cached List<UserModel>
+2020-02-16 18:54:32.8912INFOController: GetUsers; Action: Login

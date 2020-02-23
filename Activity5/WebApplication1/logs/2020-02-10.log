@@ -1,0 +1,6 @@
+2020-02-10 06:46:41.0288INFOEntering Login()
+2020-02-10 06:46:41.0805INFOParameters are: {"Username":"MyUsername","Password":"MyPassword"}
+2020-02-10 06:46:42.3727INFOExiting Login() with pass
+2020-02-10 06:47:02.1518INFOEntering Login()
+2020-02-10 06:47:02.1518INFOParameters are: {"Username":"David","Password":"Pratt"}
+2020-02-10 06:47:02.1518INFOExiting Login() with Login failed
